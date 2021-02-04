@@ -1,0 +1,63 @@
+/* General Styling */
+.container, main, .container-fluid {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* Nav Styling */
+.nav-link {
+    font-size: x-large;
+    padding: 10px 20px;
+    margin-right: 3em;
+}
+
+nav{
+    background-color: white;
+}
+/* Home Styling */
+h1{
+    font-size: 6rem;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+
+}
+
+#tagline {
+    text-align: center;
+    font-size: 3rem;
+    color: blue;
+    font-family: 'Caveat', cursive;
+}
+
+/* Projects Styling*/
+.carousel-caption {
+    color: white;;
+}
+
+/* Skills Styling */
+ion-icon {
+    font-size: 64px;
+    margin-top: 20px;
+}
+
+.progress-bar{
+    background-color: blue !important;
+}
+
+/* Footer Styling */
+footer{
+    padding: 5rem 0;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline;
+    padding: 20px;
+}
